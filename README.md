@@ -1,5 +1,7 @@
 # Finance
 
+### Video demonstration: <https://www.youtube.com/watch?v=k1Xo3loH5EE>
+
 A simple finance/stock quotes application that's built on the Python Flask framework. You have the ability to quote, buy, and sell stocks using IEX's data API, as well as look at your purchase history. The database used is SQLite built off of CS50's SQLAlchemy library.
 
 # What I learned
